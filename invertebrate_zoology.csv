@@ -1,0 +1,21 @@
+﻿Catalog Number NHMD,Cataloged Date,First Name,Last Name,Collection Object - Publish,Phylum,Class,Order,Family,Genus,Species,Determined Date,Determiner_first,Determiner_last,Start Date,Collectors - First Name,Collectors - Last Name,Locality,Latitude1,Longitude1,Region,Subregion,Prep Type,Preparations - Count
+#########,2026-03-09,Majken,Tøttrup,TRUE,Annelida,Clitellata,Haplotaxida,Tubificidae,Tubifex,tubifex,,,,1941-05-15,E.W.,Kaiser,"Mølleåen, at Mathildebro",,,East Boreal,Denmark EB,various,1
+#########,2026-03-09,Martin,Stein,TRUE,Echinodermata,Ophiuroidea,Ophiurida,Amphiuridae,Amphiura,violacea,,,,1916-01-27,,,"S of San Jose, Isl. Perlas",,,,,various,1
+#########,2026-03-09,Danny,Eibye-Jacobsen,TRUE,Annelida,Polychaeta,Phyllodocida,Nereididae,Nereis,sextentaculata,,M.E.,Petersen,,,,"Napoli, Italy",,,,,various,1
+#########,2026-03-09,Danny,Eibye-Jacobsen,TRUE,Annelida,Polychaeta,Phyllodocida,Phyllodocidae,Eulalia,viridis,1995,Danny,Eibye-Jacobsen,1994-01-01,S.,Bonse,"Klinken, S of Tjärnö,",,,East Boreal,Sweden EB,70% EtOH,1
+#########,2026-03-09,Laura,Pavesi,TRUE,Tardigrada,Heterotardigrada,Echiniscoidea,Echiniscidae,Hypechiniscus,gladiator,,,,2016-03-24,B.,Blagden,"Creag Meagaidh, Lochan a’ Choire",,,East Boreal,Scotland EB,slide,1
+#########,2026-03-09,Tove,Alfastsen,TRUE,Annelida,Polychaeta,Phyllodocida,Nephtyidae,Nephtys,assimilis,1989,,,1963-07-05,,,Off Hornbæk Bay,,,East Boreal,Denmark EB,unknown,1
+#########,2026-03-09,Tove,Alfastsen,TRUE,Annelida,Polychaeta,Phyllodocida,Phyllodocidae,Eulalia,sanguinea,1991,Danny,Eibye-Jacobsen,1986-10-17,Danny,Eibye-Jacobsen,"2,25 km NNE of Hellebæk",56.08416667,12.5525,East Boreal,Denmark EB,various,1
+#########,2026-03-09,Majken,Tøttrup,TRUE,Annelida,Polychaeta,Sabellida,Sabellidae,Tubularia,stellaris,,,,1978-10-17,M.,Jensen,Enebærodde,,,East Boreal,Denmark EB,various,1
+#########,2026-03-09,Majken,Tøttrup,TRUE,Annelida,Polychaeta,Terebellida,Flabelligeridae,Stylarioides,swakopianus,2004,S.,Salazar-Vallejo,1950-12-25,Ane,Belle,"Conception Bay, SW Africa",-23.9,14.48333333,Southeast Atlantic,,various,1
+#########,2026-03-09,Kristine,Sørensen,TRUE,Annelida,Polychaeta,Scolecida,Capitellidae,Capitella,capitata,,,,1976-08-31,Anne,Belle,"Umanak Fjord, Mârmorilik",71.10111111,-51.23333333,Arctic,Greenland Ar,70% EtOH,1
+#########,2026-03-09,Majken,Tøttrup,TRUE,Annelida,Polychaeta,Terebellida,Terebellidae,Nicolea,zostericola,2008,,,1923-05-01,Ana,Belle,Vigsø Bay,,,East Boreal,Denmark EB,70% EtOH,1
+#########,2026-03-09,Majken,Tøttrup,TRUE,Annelida,Polychaeta,Scolecida,Protodrilidae,Protodrilus,corderoi,,,,2011-04-17,Ane,Bolle,"Toque Toque Grande Beach, São Sebastião, São Paulo",-23.85111111,-45.49083333,Southwest Atlantic,Brazil SWA,various,1
+#########,2026-03-09,Danny,Eibye-Jacobsen,TRUE,Annelida,Polychaeta,Phyllodocida,Pholoidae,Aphrodita,longa,2015,,,2009-06-06,Ane,Belle,"Kangersuneq Bay, N of Rodebay",69.34373333,-50.91641667,Arctic,Greenland Ar,70% EtOH,1
+#########,2026-03-09,Danny,Eibye-Jacobsen,TRUE,Annelida,Polychaeta,Phyllodocida,Pholoidae,Aphrodita,minuta,2015,,,2009-06-10,A.,Belle,"Paamiut, S of airfield",62.00918333,-49.67591667,Arctic,Greenland Ar,70% EtOH,1
+#########,2026-03-09,Kristine,Sørensen,TRUE,Platyhelminthes,Rhabditophora,Tricladida,Geoplanidae,Microplana,terrestris,1976,A,Minelli,1918-10-06,Ane,Belle,Kildeskoven i Ellestub,,,East Boreal,Denmark EB,various,
+#########,2026-03-09,Martin,Stein,TRUE,Arthropoda,Malacostraca,Isopoda,Oniscidae,Oniscus,serratus,,,,1912-07-23,,,"Bredemilet, 60°39'N 46°44'W, depth unknown",60.65,-46.73333333,Arctic,Greenland Ar,70% EtOH,
+#########,2026-03-09,Danny,Eibye-Jacobsen,TRUE,Arthropoda,Pycnogonida,Pantopoda,Nymphonidae,Boreonymphon,robustum,,Jean,Just,1968-08-11,,,"Bylot Sound, Greenland",76.4775,-69.36333333,Arctic,,70% EtOH,1
+#########,2026-03-09,Tom,Schiøtte,FALSE,Mollusca,Gastropoda,Neogastropoda,Muricidae,Murex,virgatus,,,,1978,,,"Surin Beach, W coast of Phuket, depth unknown",,,Central Indo-Pacific,Thailand CIP,dry,1
+#########,2026-03-09,Laura,Pavesi,TRUE,Cnidaria,Octocorallia,Scleralcyonacea,Chrysogorgiidae,Chrysogorgia,okinosensis,2018,Candice,Untiedt,1933-03-04,,,,,,Northwest Pacific,Japan NWP,various,
+#########,2026-03-09,Tom,Schiøtte,TRUE,,,,,Sarlaccus,vorax,,Luitfried von,Salvini-Plawen,1951-05-07,,,North Sea,54.11666667,2,East Boreal,,70% EtOH,1
