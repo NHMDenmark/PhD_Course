@@ -1,2 +1,2 @@
 # PhD_Course
-A repository holding material for a Scientific Curation PhD course
+A repository holding material for Scientific Curation PhD course
