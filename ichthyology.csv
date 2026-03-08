@@ -1,0 +1,21 @@
+﻿Catalog Number,Cataloged Date,First Name,Last Name,Collection Object - Publish,Kingdom,Phylum,Class,Order,Family,Genus,Species,Determined Date,Determiner_first,Determiner_last,Start Date,Collectors - First Name,Collectors - Last Name,Locality,Continent,Country,Prep Type,Preparations - Count
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Mugiliformes,Mugilidae,Mugil,chanos,1775,Peter,Forsskål,1762,Peter,Forsskål,Red Sea,Africa,Republic of the Sudan,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Acanthuriformes,Sciaenidae,Sciaena,hamrur,1775,Peter,Forsskål,1762,Peter,Forsskål,Red Sea,Africa,Republic of the Sudan,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Acanthuriformes,Sciaenidae,Sciaena,gaterina,1775,Peter,Forsskål,1762,Ane,Belle,Red Sea,Africa,Republic of the Sudan,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Acanthuriformes,Sparidae,Sparus,sarba,1775,Peter,Forsskål,1762,Anne,Belle,Red Sea,Africa,Republic of the Sudan,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Carangiformes,Carangidae,Scomber,lysan,1775,Peter,Forsskål,1762,Ana,Belle,Djiddæ and Lohajæ,,,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Centrarchiformes,Terapontidae,Terapon,jarbua,1775,Peter,Forsskål,1762,Ane,Bolle,Djiddæ and Sues,,,Skin,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Acanthuriformes,Siganidae,Scarus,rivulatus,1775,Peter,Forsskål,1762,Ane,Belle,Lohajæ,,,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Labriformes,Labridae,Labrus,inermis,1775,Peter,Forsskål,1762,A.,Belle,Mochhæ,,,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Acanthuriformes,Sciaenidae,Sciaena,fulviflamma,1775,Peter,Forsskål,1762,Ane,Belle,Red Sea,,,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,,,,Sciaena,kasmira,1775,Peter,Forsskål,1762,Peter,Forsskål,Red Sea,,,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Acanthuriformes,Leiognathidae,Scomber,equula,1775,Peter,Forsskål,1762,Peter,Forsskål,Red Sea,,,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Acanthuriformes,Lethrinidae,Sciaena,mahsena,1775,Peter,Forsskål,1762,Peter,Forsskål,Red Sea,,,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Acanthuriformes,Lethrinidae,Sciaena,harak,1775,Peter,Forsskål,1762,Peter,Forsskål,Red Sea,,,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Acanthuriformes,Lethrinidae,Sciaena,obsoleta,1775,Peter,Forsskål,1762,Peter,Forsskål,Red Sea,,,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Acanthuriformes,Acanthuridae,Chaetodon,sohal,1775,Peter,Forsskål,1762,Peter,Forsskål,Red Sea,,,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Perciformes,Cottidae,Triglops,pingelii,,,,1829-09-10,,Pingel,"Greenland, Frederikshåb, Quanneøen",,Greenland,Unspecified,1
+#########,2026-03-09,Troels,Kullberg,TRUE,Animalia,Chordata,Actinopterygii,Perciformes,Cottidae,Icelus,hamatus,,,Krøyer,1844-07,,,"Norway, Spitzbergen, Belsund",Europe,Norway,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Perciformes,Liparidae,Liparis,fabricii,1993,Natalya,Chernova,1845-01-01,,Krøyer,"Norway, Svalbard (Spitzbergen)",Europe,Norway,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,Actinopterygii,Acanthuriformes,Sciaenidae,Lepipterus,corvina,,,,1855-09-30,,,"Brazil, Rio das Velhas",,Brazil,Unspecified,1
+#########,2026-03-09,Tammes,Menne,TRUE,Animalia,Chordata,,,,Piscis,formalinus,,R.,Wisner,1870,,Iversen,Atlantic Ocean,,,Unspecified,1
