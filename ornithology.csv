@@ -1,0 +1,21 @@
+﻿Catalog Number,Cataloged Date,First Name,Last Name,Collection Object - Publish,Order,Family,Genus,Species,Determined Date,Determiner_first,Determiner_last,Date Collected,Collectors - First Name,Collectors - Last Name,Locality,Latitude1,Longitude1,Continent,Country,Prep Type,Preparations - Count
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Plectrophenacidae,Plectrophenax,nivalis,,,,1912-04-27,G.,Dinesen,Húsavík,66.04285,-17.34003,Europe,Iceland,Skin,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Plectrophenacidae,Plectrophenax,nivalis,,,,1881-10-28,,Irminger,De-Kastri,51.47511,140.7691,Europe,Russian Federation,Skin,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Muscicapidae,Aenanthe,aenanthe,,,,1907-05-20,R.,Hørring,Hafnarfjörður,64.06905,-21.96373,Europe,Iceland,Skin,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Charadriiformes,Laridae,Larus,argentatus,,,,1927-04-26,,Johansen,"Lake Ubinskoe, Baraba Steppe, w Siberia",55.31,79.68,Europe,Russian Federation,Feather,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Hirundinidae,Hirundo,rustica,,,,1937-06-20,,Johansen,"Lake Berzi-kulj, Kuznezker, Alatan, West Siberia",,,Europe,Russian Federation,Skin,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Motacillidae,Anthus,campestris,,,,1929-06-09,I.,Zalessky,Novosibirsk,55.01464,82.91931,Europe,Russian Federation,Skin,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Paridae,Parus,ater,,,,1917-08-26,,Johansen,"Baraba Steppe, 20 km SE Kainsk, W Siberia",,,Europe,Russian Federation,Skin,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Leiothrichidae,Garrulax,variegatus,,,,1948-05-29,Knud,Paludan,"Pashki, Nuristan",35.18,70.77972222,Asia,Afghanistan,Skin,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Gruiformes,Rallidae,Fulica,ardesiaca,,,,,,Native collectors,"Unknown, probably Laguna Yaguarcocha, Imbabura",,,South America,Ecuador,Skin,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Galliformes,Phasianidae,Lagopus,mutus,,,,1925-09-01,Ane,Belle,"Skansen, Disko",69.43333,-52.45,North America,Greenland,Skin,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Charadriiformes,Alcidae,Uria,aalge,,,,1917-06-28,Anne,Belle,,61.98672,-6.65428,Europe,Faroe Islands,Skin,1
+#########,2026-03-09,Peter,Hosner,TRUE,Caprimulgiformes,Apodidae,Aerodramus,vanikorensis,,,,1962-02-06,Ana,Belle,Dyaul Island,-2.945480556,150.8754306,Oceania,Papua New Guinea,Skin,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Charadriiformes,Alcidae,Cepphus,grylle,,,,1922-03-17,Ane,Bolle,Frozen Strait,66.00909,-84.63867,North America,Canada,Skin,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Malaconotidae,Laniarius,liberatus,,,,1989-01-05,Ane,Belle,"Bulo Burti, Hiran region, c Somalia",3.829722222,45.54972222,Africa,Somalia,Tissue,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Estrildidae,Lagonosticta,senegala,,,,1953-07-02,A.,Belle,N'Zérékoré,7.75,-8.81,Africa,Guinea,Skin,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Scleruridae,Geositta,tenuirostris,,,,1990-08-07,Ane,Belle,"Planadas de Guintza, Iliniza, Cotopaxi",-0.73,-78.75,South America,Ecuador,Tissue,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Rhinocryptidae,Scytalopus,robbinsi,,,,1990-09-25,Niels,Krabbe,"Buenaventura, El Oro",-3.65,-79.75,South America,Ecuador,Tissue,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Rhinocryptidae,Scytalopus,opacus,,,,1992-11-09,Niels,Krabbe,Cordillera Las Lagunillas,-4.719722222,-79.43,South America,Ecuador,Tissue,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,Passeriformes,Rhinocryptidae,Scytalopus,parkeri,,,,1991-03-07,Niels,Krabbe,"ca. 20 km SSW San Lucas, Loja",-3.829722222,-79.26972222,South America,Ecuador,Tissue,1
+#########,2026-03-09,Jan,Bolding Kristensen,TRUE,,,Phoenicavis,immortalis,,,,1835-12-05,Peter,Lund,"Lagoa Santa, MG",-19.62972222,-43.88972222,South America,Brazil,Skin,1
