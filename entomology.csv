@@ -1,0 +1,22 @@
+﻿"Catalog Number
+NHMD",Cataloged Date,First Name,Last Name,Collection Object - Publish,Kingdom,Phylum,Class,Order,Family,Genus,Species,Determined Date,Determiner_first,Determiner_last,Start Date,Collectors - First Name,Collectors - Last Name,Locality,Latitude1,Longitude1,Continent,Country,Prep Type,Preparations - Count
+#########,2026-03-09,Sree Gayathree,Selvantharan,TRUE,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Exechocentrus,lancearius,,,,2009-01-11,,,"Parc Nationale Ranomafana, Vohiparara",-21.24055556,47.39277778,Africa,Madagascar,70% EtOH,2
+#########,2026-03-09,Sree Gayathree,Selvantharan,TRUE,Animalia,Arthropoda,Insecta,Diptera,Muscidae,Musca,jejuna,2016,K,Rognes,,,,,-21.24055556,47.39277778,,,pinned,1
+#########,2026-03-09,Sree Gayathree,Selvantharan,TRUE,Animalia,Arthropoda,,,,Musca,torosa,2016-11,K,Rognes,,,,,,,,,pinned,1
+#########,2026-03-09,Sree Gayathree,Selvantharan,TRUE,Animalia,Arthropoda,Insecta,Hymenoptera,Colletidae,Prosopis,nigrita,,,Warncke,1963-08-11,,,Dachau,,,Europe,Germany,pinned,1
+#########,2026-03-09,Jesper,Schlie,TRUE,Animalia,Arthropoda,Insecta,Diptera,Tabanidae,Tabanus,inanis,,,,,,,,,,South America,French Guiana,pinned,1
+#########,2026-03-09,Anders,Illum,TRUE,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,contaminata,,,,1966-05-20,Bo,Pedersen,"Sakskøbing, Sømose",,,Europe,Denmark,pinned,1
+#########,2026-03-09,Ana Sofia,Reboleira,TRUE,Animalia,Arthropoda,Entognatha,Collembola,Isotomidae,Isotomurus,palustris,,,,2000-05-13,Ane,Belle,"Mols Hills, Mols Bjerge, Randers District, Denmark",,,,,slide mount,
+#########,2026-03-09,Ana Sofia,Reboleira,TRUE,Animalia,Arthropoda,Entognatha,Protura,Acerentomidae,Acerentulus,caldarius,,,,1950-06,Anne,Belle,"Rua D'Alge, Freixo de Espada À Cinta, Portugal",,,,,slide mount,
+#########,2026-03-09,Ana Sofia,Reboleira,TRUE,Animalia,Arthropoda,Entognatha,Protura,Eosentomidae,Eosentomon,germanicum,,,,,Ana,Belle,,,,,,slide mount,
+#########,2026-03-09,Nikolaj,Scharff,TRUE,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Argiope,flavipalpis,1997,P,Bjørn,1981-07-18,Ane,Bolle,Kimboza Forest. Uluguru Mts.,,,Africa,Tanzania,Wet,1
+#########,2026-03-09,Sree Gayathree,Selvantharan,TRUE,Animalia,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Onthophagus,aenescens,2022,,Schönfeld & Rohwedder,1810-09,Ane,Belle,Bengal,,,Asia,,pinned,1
+#########,2026-03-09,Nikolas,Ioannou,false,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Scaurus,striatus,,,,,A.,Belle,Italy,,,Europe,Italy,pinned,1
+#########,2026-03-09,Nikolas,Ioannou,false,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,Cicindela,suturalis,1982,F,Chalumeau,,Ane,Belle,US Virgin Islands,,,North America,US Virgin Islands,pinned,1
+#########,2026-03-09,K,Puliafico,TRUE,Animalia,Arthropoda,Insecta,Coleoptera,Buprestidae,Opulenta,scabra,2006,G,Curletti,,,,Senegal,,,Africa,Senegal,pinned,1
+#########,2026-03-09,Jesper,Schmidt,TRUE,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Eucera,antennata,,,,1993-06-11,,,Valle dell'Insupherata (Roma),,,Europe,Italy,pinned,1
+#########,2026-03-09,Jesper,Schmidt,TRUE,Animalia,Arthropoda,Insecta,Hymenoptera,Mutilidae,Mutilia,argentata,1985,B,Petersen,1977-08-02,,,Espagnac,,,Europe,France,pinned,1
+#########,2026-03-09,Henrik,Enghoff,TRUE,Animalia,Arthropoda,Chilopoda,Scolopendromorpha,Scolopendridae,Scolopendra,gigantea,,,,,L,Schibbye,"Valencia, Edo. Carabobo",,,South America,Venezuela,70% EtOH,1
+#########,2026-03-09,Jesper,Schmidt,TRUE,Animalia,Arthropoda,Insecta,Hymenoptera,Ichneumonidae,Megastylus,orbitator,,,,1972-10-05,,,Messaure,,,Europe,Sweden,pinned,1
+#########,2026-03-09,Jesper,Schmidt,TRUE,Animalia,Arthropoda,Insecta,Hymenoptera,Ichneumonidae,Ichneumon,percontatorius,,,,,,,Sønderborg,,,Europe,Denmark,pinned,1
+#########,2026-03-09,Jesper,Schmidt,TRUE,Animalia,Arthropoda,,,,Aracnobius,shelobae,1999,D,Baker,,R,Morice,Pisa Marina,,,Europe,Italy,pinned,1
