@@ -1,0 +1,21 @@
+﻿Catalog Number,Cataloged Date,First Name,Last Name,Collection Object - Publish,Kingdom,Phylum,Class,Order,Family,Genus,Species,Determined Date,Determiner_first,Determiner_last,Start Date,Collectors - First Name,Collectors - Last Name,Locality,Latitude1,Longitude1,Continent,Country,Prep Type,Preparations - Count
+#########,1964-09-01,Nasim,Hezaveh,TRUE,Animalia,Chordata,Amphibia,Anura,Hyperoliidae,Kassina,lamottei,,Arne,Schiøtz,1963-07-28,Arne,Schiøtz,"SW of Zeala, between Danané and Mount Nimba",,,Africa,Ivory Coast,70% EtOH,1
+#########,1964-09-01,Nasim,Hezaveh,TRUE,Animalia,Chordata,Amphibia,Anura,Hyperoliidae,Kassina,lamottei,1818,Arne,Schiøtz,1963-07-28,Arne,Schiøtz,"SW of Zeala, between Danané and Mount Nimba",,,Africa,Ivory Coast,70% EtOH,1
+#########,1867-09-10,,Unknown,TRUE,Animalia,Chordata,Reptilia,Squamata,Pygopodidae,Aprasia,pulchella,,,,,,Moeller,s.l.,,,Australia,Australia,70% EtOH,
+#########,1867-09-10,Jens Bødtker,Rasmussen,TRUE,Animalia,Chordata,Reptilia,Squamata,Pygopodidae,Aprasia,pulchella,,,,,,Moeller,,,,Australia,Australia,70% EtOH,
+#########,1867-09-10,Mogens,Andersen,TRUE,Animalia,Chordata,Reptilia,Squamata,Anolidae,Anolis,riisei,,,MCZ,1862,,Riise,Santo Domingo,,,North America,Dominican Republic,70% EtOH,
+#########,1867-09-10,Mogens,Andersen,TRUE,Animalia,Chordata,Reptilia,Squamata,Anolidae,Anolis,riisei,,,MCZ,1862,Ane,Belle,Santo Domingo,,,North America,Dominican Republic,70% EtOH,
+#########,1871-09-01,Mogens,Andersen,TRUE,Animalia,Chordata,Reptilia,Squamata,Teiidae,Ameiva,riisei,,,,,Anne,Belle,Water Island,18.319981,-64.95254,,,skin,
+#########,1846-06-27,Mogens,Andersen,TRUE,Animalia,Chordata,Reptilia,Squamata,Teiidae,Ameiva,riisei,,,,,Ana,Belle,Saint John,18.335,-64.73833333,North America,U.S. Virgin Islands,70% EtOH,
+#########,1871-09-01,Jens Bødtker,Rasmussen,TRUE,Animalia,Chordata,Reptilia,Squamata,Teiidae,Ameiva,riisei,,,,,Ane,Bolle,Westindies,18.135411,-64.74517,,,70% EtOH,
+#########,1871-09-01,Mogens,Andersen,TRUE,Animalia,Chordata,Reptilia,Squamata,Teiidae,Ameiva,riisei,,,,,Ane,Belle,Westindies,18.16151,-64.75616,,,70% EtOH,
+#########,1871-09-01,Jens Bødtker,Rasmussen,TRUE,Animalia,Chordata,Reptilia,Squamata,Teiidae,Ameiva,riisei,,,,,A.,Belle,Puerto Rico,18.198043,-66.41235,,,70% EtOH,
+#########,1871-09-01,Mogens,Andersen,TRUE,Animalia,Chordata,Reptilia,Squamata,Teiidae,Ameiva,riisei,1840,,,,Ane,Belle,Puerto Rico,18.177168,-66.44531,,,70% EtOH,
+#########,1871-09-01,,Unknown,TRUE,Animalia,Chordata,Reptilia,Squamata,Teiidae,Ameiva,riisei,1840,,,,,Riise,Puerto Rico,18.198043,-66.44531,,,70% EtOH,
+#########,1867-09-10,,Unknown,TRUE,Animalia,Chordata,Reptilia,Squamata,Teiidae,Cnemidophorus,hygomi,1840,Theodore,Cantor,,Theodore,Hygum,"Maruim, Sergipe",,,South America,Brazil,70% EtOH,
+#########,1871-09-01,,Unknown,TRUE,Animalia,Chordata,Reptilia,Squamata,Teiidae,Cnemidophorus,hygomi,1840,Mark D.,Scherz,,W.,Hygum,"Maruim, Sergipe",,,South America,Brazil,70% EtOH,
+#########,1871-09-01,,Unknown,TRUE,Animalia,,,,,Cnemidophorus,hygomi,1840,Frits,Bræstrup,,,Hygum,"Maruim, Sergipe",,,South America,Brazil,70% EtOH,
+#########,1871-09-01,,Unknown,TRUE,Animalia,,,,,Cnemidophorus,hygomi,1840,,,,Vilhelm,Hygum,"Maruim, Sergipe",,,South America,Brazil,70% EtOH,
+#########,1867-09-10,,Unknown,TRUE,Animalia,Chordata,Reptilia,Squamata,Amphisbaenidae,Amphisbaena,antillensis,1840,,,,,Stübe,West Indies,,,,,70% EtOH,
+#########,1867-09-10,,Unknown,TRUE,Animalia,Chordata,Reptilia,Squamata,Tropiduridae,Tropidurus,hygomi,1849,,,,,Hygum,Cotinguiba River,,,South America,Brazil,70% EtOH,
+#########,1871-09-01,,Unknown,TRUE,Animalia,,,,,Basiliscus,medusae,1849,,,,,Hygum,"Maruim, Sergipe",,,South America,Brazil,70% EtOH,
