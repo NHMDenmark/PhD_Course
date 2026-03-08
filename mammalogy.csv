@@ -1,0 +1,21 @@
+﻿Catalog Number,Cataloged Date,First Name,Last Name,Collection Object - Publish,Order,Family,Genus,Species,Determined Date,Determiner_first,Determiner_last,Collecting Information - Date,Collectors - First Name,Collectors - Last Name,Locality,Latitude1,Longitude1,Continent,Country,Prep Type,Preparations - Count
+#########,2026-03-09,Inken,Mueller-Töwe,TRUE,Carnivora,Phocidae,Halichoerus,grypus,,,,1778,,,"Amager, København",55.62021,12.591643,Europe,Denmark,bones,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Cingulata,Dasypodidae,Euphractus,gilvipes,1818,Martin Hinrich Carl,Lichtenstein,,Peter,Lund,Minas Geraes,,,South America,Brazil,skin,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Rodentia,Cricetidae,Calomys,tener,,,,1851-06-05,Johannes,Reinhardt,Lagoa Santa,,,South America,Brazil,skin,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Rodentia,Cricetidae,Calomys,expulsus,,,,,Peter,Lund,see remarks ,,,,,bones,1
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Rodentia,Cricetidae,Calomys,lepidus,,,,,,British Museum, ,,,South America,Peru,70% EtOH,1
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Rodentia,Cricetidae,Calomys,lepidus,,,,,,British Museum, ,,,South America,Peru,bones,1
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Rodentia,Cricetidae,Bibimys,labiosus,,,,1837-05-25,Peter,Lund,Lagoa Santa,,,South America,Brazil,skin,1
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Rodentia,Cricetidae,Bibimys,labiosus,,,,1837-05-25,Peter,Lund,Lagoa Santa,,,South America,Brazil,bones,1
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Cetacea,Delphinidae,Stenella,coeruleoalba,,,,,Carl,Holbøll,Greenland ,,,,Greenland ,mounted specimen,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Rodentia,Cricetidae,Akodon,cursor,,,,1851-06-29,Johannes,Reinhardt,Rasquao do Azude,,,South America,Brazil,skin,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Rodentia,Cricetidae,Akodon,cursor,,,,1851-06-29,Johannes,Reinhardt,Rasquao do Azude,,,South America,Brazil,bones,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Didelphimorphia,Didelphidae,Didelphis,albiventris,1840,Peter,Lund,,Ane,Belle,"Lagoa Santa, ""Rio das Velhas""",,,South America,Brazil,bones,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Didelphimorphia,Didelphidae,Marmosops,incanus,1840,Peter,Lund,,Anne,Belle,"Lagoa Santa, ""Rio das Velhas""",,,South America,Brazil,bones,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Didelphimorphia,Didelphidae,Marmosops,incanus,1840,Peter,Lund,,Ana,Belle,"Lagoa Santa, ""Rio das Velhas""",,,South America,Brazil,Bones,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Didelphimorphia,Didelphidae,Marmosops,incanus,1840,Peter,Lund,,Ane,Bolle,Lagoa Santa,,,South America,Brazil,skin,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Didelphimorphia,Didelphidae,Marmosops,incanus,1840,Peter,Lund,,Ane,Belle,Lagoa Santa,,,,,skin,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Didelphimorphia,Didelphidae,Marmosops,incanus,1840,Peter,Lund,,A.,Belle,Lagoa Santa,,,South America,Brazil,bones,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,Didelphimorphia,Didelphidae,Didelphis,albiventris,1840,Peter,Lund,,Ane,Belle,South Brazil,,,South America,Brazil,mounted specimen,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,,,Didelphis,pimelura,1849,Johannes,Reinhardt,,Johannes,Reinhardt,Lagoa Santa,,,South America,Brazil,skin,
+#########,2026-03-09,Daniel Klingberg,Johansson,TRUE,,,Yetius,nivicola,1849,Johannes,Reinhardt,,Johannes,Reinhardt,Lagoa Santa,,,South America,Brazil,bones,
