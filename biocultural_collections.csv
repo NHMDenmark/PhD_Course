@@ -1,0 +1,15 @@
+﻿Catalog Number,Cataloged Date,First Name,Last Name,Collection Object - Publish,Kingdom,Division,Class,Order,Family,Genus,Species,Determined Date,Determiner_first,Determiner_last,Start Date,Collectors - First Name,Collectors - Last Name,Locality,Continent,Country,Prep Type,Preparations - Count
+#########,1964-09-01,Sam,Bruun-Lund,TRUE,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Andropogon,sorghum,,,,1932,,,China,Asia,China,Object,1
+#########,1964-09-01,Sam,Bruun-Lund,TRUE,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Oleaceae,Olea,europaea,,,,,Alfred,Benzon,Spain,Europe,Spain,Object,1
+#########,1867-09-10,Sam,Bruun-Lund,TRUE,Fungi,Basidiomycota,Agaricomycetes,Polyporales,Polyporaceae,Polyporus,lomentarius,,,,,Alfred,Benzon,,Europe,,Sheet,1
+#########,1867-09-10,Sam,Bruun-Lund,TRUE,Plantae,Tracheophyta,Liliopsida,Poales,Bromeliaceae,Ananas,sativa,,,,,,,Botanical Garden Copenhagen,Europe,Denmark,Object,1
+#########,1867-09-10,Sam,Bruun-Lund,TRUE,Unspecified,,,,,,,,,,1922,,Den Holl. Udstill. KBH,Dutch East Indies,Asia,Indonesia,Object,1
+#########,1867-09-10,Sam,Bruun-Lund,TRUE,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,tabacum,,,,1894,Ane,Belle,Cuba,North America,Cuba,Object,1
+#########,1871-09-01,Sam,Bruun-Lund,TRUE,Plantae,Tracheophyta,Magnoliopsida,Lamiales,Lamiaceae,Pogostemon,patchouli,,,,,Anne,Belle,Asia,Asia,,Object,1
+#########,1846-06-27,Sam,Bruun-Lund,TRUE,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Althaea,officinalis,,,,,Ana,Belle,,,,Object,1
+#########,1871-09-01,Sam,Bruun-Lund,TRUE,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Guizotia,abyssinica,,,,1926,Ane,Bolle,Africa,Africa,,Object,1
+#########,1871-09-01,Sam,Bruun-Lund,TRUE,Plantae,Tracheophyta,Liliopsida,Asparagales,Alliaceae,Allium,cepa,,,,1880,Ane,Belle,Italy,Europe,Italy,Object,1
+#########,1871-09-01,Sam,Bruun-Lund,TRUE,Plantae,Tracheophyta,Liliopsida,Arecales,Arecaceae,Hyphaene,thebaica,,,,1905,A.,Belle,Egypt,Africa,Egypt,Object,1
+#########,1871-09-01,Sam,Bruun-Lund,TRUE,Plantae,Tracheophyta,Magnoliopsida,Santalales,Balanophoraceae,Balanophora,,,,,,Ane,Belle,Java,Asia,Indonesia,Object,1
+#########,1871-09-01,Sam,Bruun-Lund,TRUE,Plantae,Tracheophyta,,,Poaceae,Oryza,sativa,,,,,Hjalmar,Jensen,Java,Asia,Indonesia,Object,1
+#########,1867-09-10,Sam,Bruun-Lund,TRUE,Plantae,,,,,Herbarium,pressata,,,,,Hjalmar,Jensen,Java,Asia,Indonesia,Object,1
